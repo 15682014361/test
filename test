@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自贡冷吃兔展示</title>
+</head>
+
+<body>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px; background-color: #f8f8f8; border-radius: 10px;">
+        <img src="冷吃兔1.jpg" alt="自贡冷吃兔" style="width: 100%; max-width: 600px; border-radius: 10px;">
+    </div>
+</body>
+
+</html>
